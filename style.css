@@ -1,5 +1,5 @@
 body {
-    background-image:url('./img/Fondo2.png');
+    background-image:url('./img/tecno.jpg');
     background-repeat : no-repeat;
     background-attachment : fixed;
     background-position : center;
@@ -45,4 +45,25 @@ div.botones{
 }
 .bt-info{
     padding:10px 5px;
+}
+
+.btn-primary {
+    background-color: #050505 !important; 
+    border: 1px solid white !important; 
+    color: white !important; 
+    padding: 10px; 
+    border-radius: 5px; 
+}
+
+.bg-primary{
+    background-color: #050505 !important;
+    border-color: white !important;
+    color: white !important; 
+   
+}
+
+.btn-info {
+    background-color: #04cefced !important;
+    border-color: white !important;
+    color: rgb(8, 8, 8) !important;  
 }
