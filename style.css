@@ -10,11 +10,11 @@ div.bg-primary {
     width: 100%;
 }
 
-.grid_1_4{
+/* .grid_1_4{
     text-align: center;
     width: 100%;
     
-}
+} */
 .btn-group{
     text-align: center;
     width: 100%; 
@@ -30,7 +30,7 @@ div.titulo{
 div.botones{
     
     text-align: center;
-    border: 2px;
+    border: 5px;
     padding:2px;
     margin-left: 1pc;
     margin-right: 5px;
@@ -40,7 +40,7 @@ div.botones{
 }
 .btn-primary{
     padding: 7px 20px;
-    border: 1px;
+    border: 4px;
     width: 100%;
 }
 .bt-info{
@@ -49,16 +49,16 @@ div.botones{
 
 .btn-primary {
     background-color: #050505 !important; 
-    border: 1px solid white !important; 
+    border: 3px solid white !important; 
     color: white !important; 
     padding: 10px; 
-    border-radius: 5px; 
+    border-radius: 6px; 
 }
 
 .bg-primary{
     background-color: #050505 !important;
-    border-color: white !important;
-    color: white !important; 
+    border: 3px solid white !important; 
+    /* color: white !important;  */
    
 }
 
